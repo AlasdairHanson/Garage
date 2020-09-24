@@ -7,4 +7,8 @@ public class Car extends Vehicle {
 	
 	}
 	
+	public String beep() {
+		return "Beep!";
+	}
+	
 }
